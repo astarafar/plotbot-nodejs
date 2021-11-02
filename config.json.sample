@@ -1,0 +1,16 @@
+{
+    "api": {
+        "token": "",
+        "app_id": ""
+    },
+    "discord": {
+        "guild_id": ""
+    },
+    "db": {
+        "host": "",
+        "port": 0,
+        "schema": "",
+        "username": "",
+        "password": ""
+    }
+}
